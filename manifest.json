@@ -1,1 +1,21 @@
-test
+{
+    "name": "yasin.suresi.gen.tr",
+    "short_name": "yasin.suresi.gen.tr",
+    "icons": [
+        {
+            "src": "https://yasin.suresi.gen.tr/favicon.ico",
+            "sizes": "16x16",
+            "type": "image/ico"
+        },
+        {
+            "src": "https://4.bp.blogspot.com/-rmnn7Ku0Nxk/XaYxt7ZQ1LI/AAAAAAAAhS0/8BWequETCZQcf1-Ka9f8ekU1ENMYNYmpwCLcBGAsYHQ/s1600-rw/apple-icon-180x180.png",
+            "sizes": "180x180",
+            "type": "image/webp"
+        }
+    ],
+    "start_url": "/",
+    "theme_color": "#f8f8f8",
+    "background_color": "#fff",
+    "display": "standalone",
+    "orientation": "portrait",
+}
