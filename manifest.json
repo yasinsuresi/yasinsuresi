@@ -13,7 +13,7 @@
             "type": "image/webp"
         }
     ],
-    "start_url": "/",
+    "start_url": "https://yasin.suresi.gen.tr/",
     "theme_color": "#f8f8f8",
     "background_color": "#fff",
     "display": "standalone",
