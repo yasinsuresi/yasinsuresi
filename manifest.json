@@ -1,21 +1,53 @@
 {
-    "name": "yasin.suresi.gen.tr",
-    "short_name": "yasin.suresi.gen.tr",
-    "icons": [
-        {
-            "src": "https://yasin.suresi.gen.tr/favicon.ico",
-            "sizes": "16x16",
-            "type": "image/ico"
-        },
-        {
-            "src": "https://4.bp.blogspot.com/-rmnn7Ku0Nxk/XaYxt7ZQ1LI/AAAAAAAAhS0/8BWequETCZQcf1-Ka9f8ekU1ENMYNYmpwCLcBGAsYHQ/s1600-rw/apple-icon-180x180.png",
-            "sizes": "180x180",
-            "type": "image/webp"
-        }
-    ],
-    "start_url": "https://yasin.suresi.gen.tr/",
-    "theme_color": "#f8f8f8",
-    "background_color": "#fff",
-    "display": "standalone",
-    "orientation": "portrait"
+  "name": "Yasin Suresi",
+  "short_name": "Yasin Suresi",
+  "theme_color": "#2196f3",
+  "background_color": "#2196f3",
+  "display": "standalone",
+  "orientation": "portrait",
+  "Scope": "https://yasin.suresi.gen.tr/",
+  "start_url": "https://yasin.suresi.gen.tr/",
+  "icons": [
+    {
+      "src": "https://1.bp.blogspot.com/-pElp9ed0p_4/XbKzJkNSQTI/AAAAAAAAhUE/Q5O5uXQPMKkOcC5ObpL4Ipz6fI02icDcQCLcBGAsYHQ/s1600/icon-72x72.png",
+      "sizes": "72x72",
+      "type": "image/png"
+    },
+    {
+      "src": "https://3.bp.blogspot.com/-nUS9w1COijE/XbKzJyUrs8I/AAAAAAAAhUM/RAAB40S2X2siVFf8Ji944ppvzgPcQdmGACLcBGAsYHQ/s1600/icon-96x96.png",
+      "sizes": "96x96",
+      "type": "image/png"
+    },
+    {
+      "src": "https://1.bp.blogspot.com/-Xsi3TQ3gBWo/XbKzHlQJvFI/AAAAAAAAhT0/QupF4NcSfR0wbPlfOL3mw3eURI1x4tyJQCLcBGAsYHQ/s1600/icon-128x128.png",
+      "sizes": "128x128",
+      "type": "image/png"
+    },
+    {
+      "src": "https://2.bp.blogspot.com/--eyMHp-kJYM/XbKzHnj3moI/AAAAAAAAhTw/cljwrBfi3v0HACo5oBSSFQNWx1mjrbvXgCLcBGAsYHQ/s1600/icon-144x144.png",
+      "sizes": "144x144",
+      "type": "image/png"
+    },
+    {
+      "src": "https://2.bp.blogspot.com/-cMxag3gcyQE/XbKzH_v-zII/AAAAAAAAhT4/NzFks86ngp8xluXMBS__TpKDtwOAMRPcgCLcBGAsYHQ/s1600/icon-152x152.png",
+      "sizes": "152x152",
+      "type": "image/png"
+    },
+    {
+      "src": "https://4.bp.blogspot.com/-J42hZcNOYtI/XbKzIjwa9ZI/AAAAAAAAhT8/KSLk1P7W0DI0_LdGzCWJdhyk4SBLl5djACLcBGAsYHQ/s1600/icon-192x192.png",
+      "sizes": "192x192",
+      "type": "image/png"
+    },
+    {
+      "src": "https://4.bp.blogspot.com/-GDvycJNSs0U/XbKzJVMT_KI/AAAAAAAAhUA/SqxpJ0uU0E8ZRHBak_PHEx04YyloBUbCACLcBGAsYHQ/s1600/icon-384x384.png",
+      "sizes": "384x384",
+      "type": "image/png"
+    },
+    {
+      "src": "https://1.bp.blogspot.com/-4QJt3w5K_g4/XbKzJm3G6_I/AAAAAAAAhUI/xN6MNfQ2yeElROEq573I4JA1zUBWaor9wCLcBGAsYHQ/s1600/icon-512x512.png",
+      "sizes": "512x512",
+      "type": "image/png"
+    }
+  ],
+  "splash_pages": null
 }
